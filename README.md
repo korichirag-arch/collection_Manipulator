@@ -26,6 +26,9 @@ A feature-rich CLI (Command Line Interface) Python application designed to manag
 # HOW IT WORKS?
 
 
+### You should run my program and enjoy it after that you'll tell me how's your expirenece about this.
+## THANK YOU !✨
+
 
 
 ## 🛠️ Prerequisites
