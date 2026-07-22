@@ -24,7 +24,7 @@ A feature-rich CLI (Command Line Interface) Python application designed to manag
 
 ## Here it is video link just click and Watch it. 
 # HOW IT WORKS?
-
+https://drive.google.com/file/d/1X1R-HAEYHJnb1ZsTNM0muuMGNZ5bi0rZ/view?usp=drive_link
 
 ### You should run my program and enjoy it after that you'll tell me how's your expirenece about this.
 ## THANK YOU !✨
