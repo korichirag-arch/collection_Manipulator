@@ -22,6 +22,12 @@ A feature-rich CLI (Command Line Interface) Python application designed to manag
 
 ---
 
+## Here it is video link just click and Watch it. 
+# HOW IT WORKS?
+
+
+
+
 ## 🛠️ Prerequisites
 
 Make sure you have **Python 3.10 or higher** installed, as this project uses Python's `match-case` syntax.
